@@ -81,6 +81,10 @@ Full mapping: [docs/architecture.md](docs/architecture.md) · Prior art in depth
 
 Competence certification (who declares "she can no longer amend her core"), Guardian-key family conflict, bad early imprints, and cost/access equity are real, unsolved problems. They are documented in [docs/failure-modes-and-ethics.md](docs/failure-modes-and-ethics.md) rather than waved away — because a system trusted with someone's self has to be more honest than the industry around it.
 
+## Origin
+
+The Witness was conceived by **Michael Byrne** (Atman Labs), creator of the ATMAN architecture — a U.S. Army veteran and independent researcher building in the open from Florida. It is an application of his open-source work on agents with an immutable self.
+
 ## License
 
 Apache-2.0, consistent with the ATMAN project. The concept is published openly so it can be challenged, improved, and — if it deserves it — built by people who will keep the anti-fabrication clause intact.
