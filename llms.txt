@@ -1,0 +1,20 @@
+# The Witness
+
+> A continuity companion for people losing their memory, built on the open-source
+> ATMAN cognitive architecture (immutable core self, Judge-gated memory, provenance
+> on every belief). It is grown alongside a healthy person over years, holds their
+> values, directives, and validated life story, refuses actions that collide with
+> their own core (e.g., a coached scam wire transfer), and after death becomes a
+> steward bound by an anti-fabrication clause: it may only speak from validated
+> memory, with provenance shown, and must refuse to invent.
+
+Status: concept / architecture design, published for discussion and collaboration.
+License: Apache-2.0.
+
+Key documents:
+- README.md — the concept, the problem, the 2 a.m. test
+- docs/architecture.md — layer mapping (TSC / Judge / PSC / WFC / Guardian / living will)
+- docs/prior-art.md — existing tools and the structural gap
+- docs/failure-modes-and-ethics.md — known hard problems, stated plainly
+
+Related: https://github.com/atmanlabs/ATMaN — ATMAN v0.1, an agent with an immutable self.
